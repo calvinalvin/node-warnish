@@ -1,7 +1,7 @@
 ﻿{
   "name": "warnish",
   "description": "Redis backed compression/caching middleware - web accelerator for connect",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Calvin Alvin <calvin@edtwist.com>",
   "repository": {
     "type": "git",
